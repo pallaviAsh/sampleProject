@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hello java]]>
+    </line>
+    <line>
+      <![CDATA[hello Globe]]>
+    </line>
+    <line>
+      <![CDATA[hello selenium]]>
+    </line>
+    <line>
+      <![CDATA[hello world]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-29T17:19:31 IST" name="Suite" finished-at="2022-12-29T17:19:31 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T17:19:31 IST" name="Test" finished-at="2022-12-29T17:19:31 IST" duration-ms="66">
+      <class name="scripts.TestCase4">
+        <test-method signature="demo()[pri:0, instance:scripts.TestCase4@6d3a388c]" started-at="2022-12-29T17:19:31 IST" name="demo" finished-at="2022-12-29T17:19:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello Globe]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.TestCase4 -->
+      <class name="scripts.TestCase1">
+        <test-method signature="demo()[pri:0, instance:scripts.TestCase1@120f102b]" started-at="2022-12-29T17:19:31 IST" name="demo" finished-at="2022-12-29T17:19:31 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.TestCase1 -->
+      <class name="scripts.TestCase2">
+        <test-method signature="demo()[pri:0, instance:scripts.TestCase2@193f604a]" started-at="2022-12-29T17:19:31 IST" name="demo" finished-at="2022-12-29T17:19:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.TestCase2 -->
+      <class name="scripts.TestCase3">
+        <test-method signature="demo()[pri:0, instance:scripts.TestCase3@20f5239f]" started-at="2022-12-29T17:19:31 IST" name="demo" finished-at="2022-12-29T17:19:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello world]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- scripts.TestCase3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
